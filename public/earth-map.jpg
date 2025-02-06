@@ -1,0 +1,5 @@
+// You'll need to add these texture files to your public directory:
+// 1. earth-map.jpg (Earth texture map)
+// 2. earth-bump.jpg (Bump map for terrain)
+// 3. earth-specular.jpg (Specular map for shininess)
+
